@@ -39,7 +39,7 @@ Come and explore why microservices still matter and how they can be effectively 
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| This presentation has yet to be scheduled. | | | | | |
+| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | Online | Premieres on 06-MAR-2025 | 12:00 PM EST | N/A | Available Afterwards |
 
 ## Resources
 There are no additional resources for this presentation.
