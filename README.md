@@ -1,5 +1,5 @@
 # In Defense of Microservices
-![In Defense of Microserices](Thumbnail.jpg)
+![In Defense of Microservices](Thumbnail.jpg)
 
 ## Elevator Pitch
 Once hailed as the solution for modern applications, microservices are now criticized for complexity and operational bottlenecks. Here we will address critiques with practical solutions and showcase actual implementations. Discover why microservices still matter and how to adopt them effectively.
@@ -31,15 +31,15 @@ Come and explore why microservices still matter and how they can be effectively 
 - Best Practices
 
 ## Learning Objectives
-- Discover Why Microservices Benefits Matter: This session will provide an overview of the key benefits of microservices, such as scalability, fault isolation, and independent teams/deployments, and why these benefits matter for modern applications.
+- Discover Why Microservices Benefits Matter: This session will provide an overview of the key benefits of microservices, including scalability, fault isolation, and independent teams and deployments, and explain why these benefits are crucial for modern applications.
 - Lean into Microservices: A session focused on taking typical challenges to microservices architecture as a starting point to practically show that microservices are the way to approach architecture, covering strategies, best practices, challenges, and solutions to reduce complexity, avoid operational bottlenecks, and poor performance.
-- Comparing Microservices to Other Architectural Styles: The session will enable attendees to contrast microservices with different architectural styles, like a modular monolith, and decide how to choose what is right for them based on their needs as a project and organization.
-- 
+- Comparing Microservices to Other Architectural Styles: The session will enable attendees to contrast microservices with different architectural styles, such as a modular monolith, and determine how to choose the right approach for their project and organization based on their specific needs.
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | Online | Premieres on 06-MAR-2025 | 12:00 PM EST | N/A | Available Afterwards |
+| [dev up 2025](https://devupconf.org/) | St. Charles, MO | 07-AUG-2025 | 4:00 PM CDT | 101 | Available Afterwards |
+| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | Online | 06-MAR-2025 | 12:00 PM EST | N/A | [Slides](EventMaterials/InDefenseOfMicroservices-Conf42.pdf) |
 
 ## Resources
 There are no additional resources for this presentation.
