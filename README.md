@@ -38,6 +38,7 @@ Come and explore why microservices still matter and how they can be effectively 
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Visual Studio Live! Las Vegas 2026](https://vslive.com/events/las-vegas-2026/sessions/thursday/h18-microservices.aspx) | Las Vegas, NV | 19-MAR-2026 | 2:45 PM PDT | TBA | Slides Available Afterwards |
 | [dev up 2025](https://devupconf.org/) | St. Charles, MO | 07-AUG-2025 | 4:00 PM CDT | 101 | [Slides](EventMaterials/InDefenseOfMicroservices-DevUp2025.pdf) |
 | [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | Online | 06-MAR-2025 | 12:00 PM EST | N/A | [Slides](EventMaterials/InDefenseOfMicroservices-Conf42.pdf) |
 
