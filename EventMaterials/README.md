@@ -2,6 +2,7 @@
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Live 360!](https://live360events.com/events/orlando-2026/sessions/wednesday/vsw06-microservices.aspx) | Orlando, FL | 18-NOV-2026 | 9:30 AM EDT | TBA | [Slides](InDefenseOfMicroservices_Live360.pdf) |
 | [dev up 2025](https://devupconf.org/) | St. Charles, MO | 07-AUG-2025 | 4:00 PM CDT | 101 | [Slides](InDefenseOfMicroservices-DevUp2025.pdf) |
 | [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | Online | 06-MAR-2025 | 12:00 PM EST | N/A | [Slides](InDefenseOfMicroservices-Conf42.pdf) |
 
